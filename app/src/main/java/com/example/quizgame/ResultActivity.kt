@@ -12,7 +12,8 @@ import com.google.firebase.database.ValueEventListener
 
 class ResultActivity : AppCompatActivity() {
 
-    //putting comment on main   
+    //putting comment on main.
+    //putting second commit on main.
     lateinit var resultBinding : ActivityResultBinding
 
     val database = FirebaseDatabase.getInstance()
