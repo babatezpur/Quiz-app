@@ -28,6 +28,7 @@ class ResultActivity : AppCompatActivity() {
     //adding third comment on branch 101
 
     //Now lets try something else: comment 1
+    //comment 2 after creating enw branch and on new beanch
     
     var userCorrect = ""
     var userWrong = ""
