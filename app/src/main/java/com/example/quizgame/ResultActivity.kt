@@ -31,6 +31,10 @@ class ResultActivity : AppCompatActivity() {
 
     //coment 3 overall, second in main
     //comment 4 overall, 3rd in main
+    //comment 2 after creating enw branch and on new beanch
+    //comment 5 overall, 2nd in branch102
+    
+>>>>>>> branch102
     var userCorrect = ""
     var userWrong = ""
 
