@@ -30,6 +30,7 @@ class ResultActivity : AppCompatActivity() {
     //Now lets try something else: comment 1
 
     //coment 3 overall, second in main
+    //comment 4 overall, 3rd in main
     var userCorrect = ""
     var userWrong = ""
 
