@@ -14,6 +14,7 @@ class ResultActivity : AppCompatActivity() {
 
     //putting comment on main.
     //putting second commit on main.
+    //putting third comment on main
     lateinit var resultBinding : ActivityResultBinding
 
     val database = FirebaseDatabase.getInstance()
