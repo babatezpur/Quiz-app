@@ -20,7 +20,8 @@ class ResultActivity : AppCompatActivity() {
     val auth = FirebaseAuth.getInstance()
     val user = auth.currentUser
 
-    //now commenting on branch 101
+    //now commenting on branch 101.
+    //now adding second comment on branch 101.
     var userCorrect = ""
     var userWrong = ""
 
