@@ -12,6 +12,7 @@ import com.google.firebase.database.ValueEventListener
 
 class ResultActivity : AppCompatActivity() {
 
+    //putting comment on main   
     lateinit var resultBinding : ActivityResultBinding
 
     val database = FirebaseDatabase.getInstance()
