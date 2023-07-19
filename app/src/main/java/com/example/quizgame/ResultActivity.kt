@@ -28,7 +28,8 @@ class ResultActivity : AppCompatActivity() {
     //adding third comment on branch 101
 
     //Now lets try something else: comment 1
-    
+
+    //coment 3 overall, second in main
     var userCorrect = ""
     var userWrong = ""
 
